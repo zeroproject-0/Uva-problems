@@ -341,7 +341,7 @@ void tiebreaker_high_card(vector<string> v_white, vector<string> v_black)
 
 int main(void)
 {
-  //! Remove this lines to sumbit
+  //! Remove these lines to send
   freopen("input.in", "r", stdin);
   freopen("output.out", "w", stdout);
   //----------------------------------
@@ -400,7 +400,7 @@ int main(void)
     v_white_hand.clear();
   }
 
-  //! Remove this lines to sumbit
+  //! Remove these lines to send
   fclose(stdin);
   fclose(stdout);
   // ----------------------------

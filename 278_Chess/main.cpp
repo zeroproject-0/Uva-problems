@@ -6,7 +6,7 @@ using namespace std;
 
 int main(int argc, char *argv[])
 {
-  //! Remove this lines to sumbit
+  //! Remove these lines to send
   freopen("input.in", "r", stdin);
   freopen("output.out", "w", stdout);
   // ----------------------------
@@ -38,7 +38,7 @@ int main(int argc, char *argv[])
     }
   }
 
-  //! Remove this lines to sumbit
+  //! Remove these lines to send
   fclose(stdin);
   fclose(stdout);
   // ----------------------------
